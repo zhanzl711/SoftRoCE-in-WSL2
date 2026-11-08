@@ -1,0 +1,6 @@
+# Shell scripts must stay LF — this repo is edited/used under WSL2 (bash).
+*.sh text eol=lf
+
+# Scripts under scripts/ and tools/ are executed directly.
+scripts/** text eol=lf
+tools/** text eol=lf
