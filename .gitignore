@@ -1,0 +1,10 @@
+*.log
+*.out
+results/
+.cache/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
+.DS_Store
